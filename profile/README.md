@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1540139705209978890/1540139797593595934/Sbinator.png?ex=6a88de76&is=6a878cf6&hm=31f5968472a36d5346f94822018ce012f0d260b5f682b50a0bc462f2f6984635&=&format=webp&quality=lossless&width=1024&height=429" width="60%" alt="Sbinator">
+  <img src="https://media.discordapp.net/attachments/1540139705209978890/1540139797593595934/Sbinator.png?ex=6a88de76&is=6a878cf6&hm=31f5968472a36d5346f94822018ce012f0d260b5f682b50a0bc462f2f6984635&=&format=webp&quality=lossless&width=1024&height=429" width="80%" alt="Sbinator">
 </p>
 
 ---
