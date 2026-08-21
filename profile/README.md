@@ -22,3 +22,4 @@ A organisation where you can see ACoolioDude's stuff and so on. What you can che
 | ![](https://cdn.discordapp.com/avatars/1415452671560777919/edee2326b6af2d1c643946c0e33421d5.png?size=512) | Sveki | Tester for Haxefetch on Gentoo and Debian Linux.
 | ![](https://cdn.discordapp.com/avatars/1027578998764617799/2ee33dcd91521af0bcf8d68b1bf025cb.png?size=512) | [Nayumad](https://www.youtube.com/channel/UCO_wsMYhR-Ue61jX-vXT-6w) | Tester for Haxefetch on Ubuntu.
 | ![](https://cdn.discordapp.com/avatars/1481958454871719948/250c658fe9a200fb1c1a8975046f6e4a.png?size=512) | [Noahburcell](https://github.com/noahburchell) | Tester for Haxefetch on Gentoo Linux.
+| ![](https://cdn.discordapp.com/avatars/694791036094119996/3056122e24db07c0f4305ea64d3418f2.png?size=512)  | [CoreCat](https://corecathx.github.io/) | Tester for Haxefetch on Arch Linux.
